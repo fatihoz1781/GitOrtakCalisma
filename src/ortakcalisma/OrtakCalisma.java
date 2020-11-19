@@ -7,7 +7,7 @@ public class OrtakCalisma {
 		System.out.println("21:42 selamlar");
         System.out.println("22:34 deneme");
         System.out.println("22:43 deneme-2");
-		System.out.println("22:47 master")
+		System.out.println("22:47 master");
 	}
 
 }
